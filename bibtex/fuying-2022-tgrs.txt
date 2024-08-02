@@ -1,9 +1,9 @@
-@ARTICLE{2023level,
+@article{fu2022level,
+  title={Level-aware consistent multilevel map translation from satellite imagery},
   author={Fu, Ying and Fang, Zheng and Chen, Linwei and Song, Tao and Lin, Defu},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Level-Aware Consistent Multilevel Map Translation From Satellite Imagery}, 
-  year={2023},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
   volume={61},
-  number={},
-  pages={1-14},
-  doi={10.1109/TGRS.2022.3220423}}
+  pages={1--14},
+  year={2022},
+  publisher={IEEE}
+}

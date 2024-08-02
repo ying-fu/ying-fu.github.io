@@ -1,4 +1,4 @@
-@article{fuying-2023-ol,
+@article{tian2023joint,
 title = {Joint supervised and unsupervised deep learning method for single-pixel imaging},
 journal = {Optics & Laser Technology},
 volume = {162},

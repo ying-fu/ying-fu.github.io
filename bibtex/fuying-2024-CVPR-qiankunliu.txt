@@ -2,6 +2,6 @@
   title={Infrared Small Target Detection with Scale and Location Sensitivity},
   author={Liu, Qiankun and Liu, Rui and Zheng, Bolun and Wang, Hongkui and Fu, Ying},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={17490--17499},
+  pages={17490-17499},
   year={2024}
 }

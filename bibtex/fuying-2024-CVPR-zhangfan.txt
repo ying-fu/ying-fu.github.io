@@ -2,6 +2,6 @@
   title={Atlantis: Enabling Underwater Depth Estimation with Stable Diffusion},
   author={Zhang, Fan and You, Shaodi and Li, Yu and Fu, Ying},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={11852--11861},
+  pages={11852-11861},
   year={2024}
 }

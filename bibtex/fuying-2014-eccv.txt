@@ -1,4 +1,4 @@
-@inproceedings{fuying-2014-eccv,
+@inproceedings{fu2014interreflection,
   title={Interreflection removal using fluorescence},
   author={Fu, Ying and Lam, Antony and Matsushita, Yasuyuki and Sato, Imari and Sato, Yoichi},
   booktitle={European Conference on Computer Vision},

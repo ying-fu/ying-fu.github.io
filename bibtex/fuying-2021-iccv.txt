@@ -1,8 +1,7 @@
-@InProceedings{Huang_2021_ICCV,
-    author    = {Huang, Yuxing and Shen, Qiu and Fu, Ying and You, Shaodi},
-    title     = {Weakly-Supervised Semantic Segmentation in Cityscape via Hyperspectral Image},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
-    month     = {October},
-    year      = {2021},
-    pages     = {1117-1126}
+@inproceedings{huang2021weakly,
+  title={Weakly-supervised semantic segmentation in cityscape via hyperspectral image},
+  author={Huang, Yuxing and Shen, Qiu and Fu, Ying and You, Shaodi},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={1117--1126},
+  year={2021}
 }

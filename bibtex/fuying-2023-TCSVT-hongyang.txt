@@ -1,8 +1,9 @@
 @article{fu2023raw,
-  title={Raw Image Based Over-Exposure Correction Using Channel-Guidance Strategy},
+  title={Raw image based over-exposure correction using channel-guidance strategy},
   author={Fu, Ying and Hong, Yang and Zou, Yunhao and Liu, Qiankun and Zhang, Yiming and Liu, Ning and Yan, Chenggang},
-  journal={IEEE Trans. on Circuits and Systems for Video Technology},
-  note={Early Access},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={34},
+  pages={2749-2762},
   year={2023},
   publisher={IEEE}
 }

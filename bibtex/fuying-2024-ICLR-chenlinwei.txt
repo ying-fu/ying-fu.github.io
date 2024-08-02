@@ -2,5 +2,6 @@
   title={When Semantic Segmentation Meets Frequency Aliasing},
   author={Chen, Linwei and Gu, Lin and Fu, Ying},
   booktitle={The Twelfth International Conference on Learning Representations},
-  year={2024}
+  year={2024},
+  pages={1–14}
 }

@@ -2,6 +2,8 @@
   title={Siamese-DETR for Generic Multi-Object Tracking},
   author={Liu, Qiankun and Li, Yichen and Jiang, Yuqi and Fu, Ying},
   journal={IEEE Transactions on Image Processing},
+  volume={33},
+  pages={3935-3949}, 
   year={2024},
   publisher={IEEE}
 }

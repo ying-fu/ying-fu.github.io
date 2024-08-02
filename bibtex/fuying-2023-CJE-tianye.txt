@@ -1,4 +1,4 @@
-@ARTICLE{10250832,
+@ARTICLE{tian2023transformer,
   author={Tian, Ye and Fu, Ying and Zhang, Jun},
   journal={Chinese Journal of Electronics}, 
   title={Transformer-Based Under-Sampled Single-Pixel Imaging}, 
@@ -6,4 +6,4 @@
   volume={32},
   number={5},
   pages={1151-1159},
-  doi={10.23919/cje.2022.00.284}}
+}

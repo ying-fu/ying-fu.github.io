@@ -1,8 +1,10 @@
-@INPROCEEDINGS{fuying-2023-siggraph,
-  author={Zeqiang Lai and Kaixuan Weiand Ying Fu and Philipp Härtel and Felix Heide},
-  booktitle={SIGGRAPH ACM Transactions on Graphics}, 
-  title={∇-Prox: Differentiable Proximal Algorithm Modeling for Large-Scale Optimization}, 
+@article{lai2023prox,
+  title={∇-prox: Differentiable proximal algorithm modeling for large-scale optimization},
+  author={Lai, Zeqiang and Wei, Kaixuan and Fu, Ying and H{\"a}rtel, Philipp and Heide, Felix},
+  journal={ACM Transactions on Graphics (TOG)},
+  volume={42},
+  number={4},
+  pages={1--19},
   year={2023},
-  volume={1},
-  number={1},
-  pages={1-19},}
+  publisher={ACM New York, NY, USA}
+}

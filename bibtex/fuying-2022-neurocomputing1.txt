@@ -1,4 +1,4 @@
-@article{CHEN2022131,
+@article{chen2022hybrid,
 title = {Hybrid supervised instance segmentation by learning label noise suppression},
 journal = {Neurocomputing},
 volume = {496},

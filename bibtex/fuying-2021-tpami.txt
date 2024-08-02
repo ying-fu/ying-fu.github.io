@@ -1,4 +1,4 @@
-@article{fuying-2021-tpami,
+@article{fu2021coded,
   title={Coded hyperspectral image reconstruction using deep external and internal learning},
   author={Fu, Ying and Zhang, Tao and Wang, Lizhi and Huang, Hua},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},

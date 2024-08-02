@@ -1,4 +1,4 @@
-@inproceedings{fuying-2013-3DIMPVT,
+@inproceedings{fu2013dynamic,
   title={Dynamic shape capture via periodical-illumination optical flow estimation and multi-view photometric stereo},
   author={Fu, Ying and Liu, Yebin and Dai, Qionghai},
   booktitle={2011 International Conference on 3D Imaging, Modeling, Processing, Visualization and Transmission},

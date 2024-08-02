@@ -1,8 +1,8 @@
-@InProceedings{Ma_2024_CVPR,
-    author    = {Ma, Kang and Fu, Ying and Cao, Chunshui and Hou, Saihui and Huang, Yongzhen and Zheng, Dezhi},
-    title     = {Learning Visual Prompt for Gait Recognition},
+@InProceedings{Ma2024CVPR,
+    author={Ma, Kang and Fu, Ying and Cao, Chunshui and Hou, Saihui and Huang, Yongzhen and Zheng, Des},
+    title={Learning Visual Prompt for Gait Recognition},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2024},
-    pages     = {593-603}
+    month={June},
+    year={2024},
+    pages={593-603}
 }

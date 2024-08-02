@@ -1,7 +1,10 @@
-@article{https://doi.org/10.1002/aisy.202200171,
-author = {Li, Xue and Peng, Jia and Zhang, Tao and Liu, Mingrui and Fu, Ying and Zhong, Haizheng and Zhang, Jun},
-title = {Quantum Dots-Functionalized Encryption Camera for Text Image Security Protection},
-journal = {Advanced Intelligent Systems},
-pages = {2200171}
+@article{li2022quantum,
+  title={Quantum Dots-Functionalized Encryption Camera for Text Image Security Protection},
+  author={Li, Xue and Peng, Jia and Zhang, Tao and Liu, Mingrui and Fu, Ying and Zhong, Haizheng and Zhang, Jun},
+  journal={Advanced Intelligent Systems},
+  volume={4},
+  number={12},
+  pages={2200171-2200177},
+  year={2022},
+  publisher={Wiley Online Library}
 }
-

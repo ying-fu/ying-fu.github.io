@@ -1,4 +1,4 @@
-@article{fuying-2023-pr,
+@article{lin2023image,
 title = {Image manipulation detection by multiple tampering traces and edge artifact enhancement},
 journal = {Pattern Recognition},
 volume = {133},

@@ -1,6 +1,9 @@
-@inproceedings{fuying-2021-bmvc,
-  title={Crafting Object Detection in Very Low Light},
-  author={Yang, Hong and Kaixuan, Wei and Linwei, Chen and Ying, Fu},
-  booktitle = {British Machine Vision Conference (BMVC)},
-  year      = {2021}
+@inproceedings{hong2021crafting,
+  title={Crafting Object Detection in Very Low Light.},
+  author={Hong, Yang and Wei, Kaixuan and Chen, Linwei and Fu, Ying},
+  booktitle={BMVC},
+  volume={1},
+  number={2},
+  pages={1-15},
+  year={2021}
 }

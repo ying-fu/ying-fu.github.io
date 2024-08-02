@@ -1,4 +1,4 @@
-@article{fuying-2021-remotesensing,
+@article{chen2021efficient,
   title={Efficient Hybrid Supervision for Instance Segmentation in Aerial Images},
   author={Chen, Linwei and Fu, Ying and You, Shaodi and Liu, Hongzhe},
   journal={Remote Sensing},

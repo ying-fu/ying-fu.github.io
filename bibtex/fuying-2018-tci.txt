@@ -1,8 +1,10 @@
-@ARTICLE{fuying-2018-tci,
-  author={Y. {Fu} and Y. {Zheng} and L. {Zhang} and H. {Huang}},
-  journal={IEEE Transactions on Computational Imaging}, 
-  title={Spectral Reflectance Recovery From a Single RGB Image}, 
-  year={2018},
+@article{fu2018spectral,
+  title={Spectral reflectance recovery from a single RGB image},
+  author={Fu, Ying and Zheng, Yongrong and Zhang, Lin and Huang, Hua},
+  journal={IEEE Transactions on Computational Imaging},
   volume={4},
   number={3},
-  pages={382-394},}
+  pages={382--394},
+  year={2018},
+  publisher={IEEE}
+}

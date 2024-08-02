@@ -1,4 +1,4 @@
-@article{2023lis,
+@article{chen2023instance,
   title={Instance Segmentation in the Dark},
   author={Chen, Linwei and Fu, Ying and Wei, Kaixuan and Zheng, Dezhi and Heide, Felix},
   journal={International Journal of Computer Vision},

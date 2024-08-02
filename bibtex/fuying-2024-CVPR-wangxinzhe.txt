@@ -1,0 +1,7 @@
+@inproceedings{wang2024multi,
+  title={Multi-Object Tracking in the Dark},
+  author={Wang, Xinzhe and Ma, Kang and Liu, Qiankun and Zou, Yunhao and Fu, Ying},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={382-392},
+  year={2024}
+}

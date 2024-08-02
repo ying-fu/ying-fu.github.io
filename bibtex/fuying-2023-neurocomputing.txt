@@ -1,4 +1,4 @@
-@article{fuying-2023-nerocomputing,
+@article{zhang2023deep,
 title = {Deep external and internal learning for noisy compressive sensing},
 journal = {Neurocomputing},
 volume = {531},

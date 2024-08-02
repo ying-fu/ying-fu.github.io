@@ -1,4 +1,4 @@
-@article{fuying-2022-neurocomputing2,
+@article{yang2022dynamic,
 title = {Dynamic proximal unrolling network for compressive imaging},
 author = {Yixiao Yang and Ran Tao and Kaixuan Wei and Ying Fu},
 journal = {Neurocomputing},

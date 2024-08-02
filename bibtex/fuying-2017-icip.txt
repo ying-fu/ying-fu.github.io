@@ -1,8 +1,8 @@
-@INPROCEEDINGS{fuying-2017-icip,
-  author={L. {Zhang} and Y. {Fu} and Y. {Zheng} and H. {Huang}},
-  booktitle={2017 IEEE International Conference on Image Processing (ICIP)}, 
-  title={Camera spectral sensitivity, illumination and spectral reflectance estimation for a hybrid hyperspectral image capture system}, 
+@inproceedings{zhang2017camera,
+  title={Camera spectral sensitivity, illumination and spectral reflectance estimation for a hybrid hyperspectral image capture system},
+  author={Zhang, Lin and Fu, Ying and Zheng, Yinqiang and Huang, Hua},
+  booktitle={2017 IEEE International Conference on Image Processing (ICIP)},
+  pages={545--545},
   year={2017},
-  volume={},
-  number={},
-  pages={545-545},}
+  organization={IEEE}
+}
