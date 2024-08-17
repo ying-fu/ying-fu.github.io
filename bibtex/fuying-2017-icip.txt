@@ -2,7 +2,7 @@
   title={Camera spectral sensitivity, illumination and spectral reflectance estimation for a hybrid hyperspectral image capture system},
   author={Zhang, Lin and Fu, Ying and Zheng, Yinqiang and Huang, Hua},
   booktitle={2017 IEEE International Conference on Image Processing (ICIP)},
-  pages={545--545},
+  pages={545-549},
   year={2017},
   organization={IEEE}
 }

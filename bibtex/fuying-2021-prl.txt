@@ -3,7 +3,7 @@
   author={Wen, Huanglu and You, Shaodi and Fu, Ying},
   journal={Pattern Recognition Letters},
   volume={146},
-  pages={252--259},
+  pages={252-259},
   year={2021},
   publisher={Elsevier}
 }

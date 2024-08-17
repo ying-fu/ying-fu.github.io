@@ -4,7 +4,7 @@
   journal={IEEE Transactions on Image Processing},
   volume={27},
   number={11},
-  pages={5539--5552},
+  pages={5539-5552},
   year={2018},
   publisher={IEEE}
 }

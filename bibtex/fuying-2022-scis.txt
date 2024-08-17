@@ -4,7 +4,7 @@
   journal={Science China Information Sciences},
   volume={65},
   issue={10},
-  pages={1--2},
+  pages={1-2},
   year={2022},
   publisher={Science China Press}
 }

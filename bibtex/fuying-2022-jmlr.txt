@@ -4,6 +4,6 @@
   journal={Journal of Machine Learning Research},
   volume={23},
   number={16},
-  pages={1--48},
+  pages={1-48},
   year={2022}
 }

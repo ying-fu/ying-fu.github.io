@@ -4,6 +4,6 @@
   journal={Remote Sensing},
   volume={12},
   number={20},
-  pages={3294--3314},
+  pages={3294-3314},
   year={2020}
 }

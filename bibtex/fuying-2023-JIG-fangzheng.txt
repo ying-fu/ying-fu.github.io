@@ -4,6 +4,6 @@
   journal={Journal of Image and Graphics},
   volume={28},
   number={10},
-  pages={3281--3294},
+  pages={3281-3294},
   year={2023}
 }

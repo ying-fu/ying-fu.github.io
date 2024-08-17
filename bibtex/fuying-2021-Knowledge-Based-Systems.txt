@@ -3,7 +3,7 @@
   author={Zheng, Yongrong and Zhang, Tao and Fu, Ying},
   journal={Knowledge-Based Systems},
   volume={236},
-  pages={107647--107658},
+  pages={107647-107658},
   year={2022},
   publisher={Elsevier}
 }

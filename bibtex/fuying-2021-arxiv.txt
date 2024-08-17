@@ -3,7 +3,7 @@
   author={Yang, Yixiao and Tao, Ran and Wei, Kaixuan and Fu, Ying},
   journal={Neurocomputing},
   volume={510},
-  pages={203--217},
+  pages={203-217},
   year={2022},
   publisher={Elsevier}
 }

@@ -2,6 +2,6 @@
   title={Weakly-supervised semantic segmentation in cityscape via hyperspectral image},
   author={Huang, Yuxing and Shen, Qiu and Fu, Ying and You, Shaodi},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={1117--1126},
+  pages={1117-1126},
   year={2021}
 }

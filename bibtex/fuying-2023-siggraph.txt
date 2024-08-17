@@ -4,7 +4,7 @@
   journal={ACM Transactions on Graphics (TOG)},
   volume={42},
   number={4},
-  pages={1--19},
+  pages={1-19},
   year={2023},
   publisher={ACM New York, NY, USA}
 }

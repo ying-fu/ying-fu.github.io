@@ -13,6 +13,6 @@ Please give preference to citing the journal, or both the journal and conference
   title={Hyperspectral image reconstruction using deep external and internal learning},
   author={Zhang, Tao and Fu, Ying and Wang, Lizhi and Huang, Hua},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={8559--8568},
+  pages={8559-8568},
   year={2019}
 }

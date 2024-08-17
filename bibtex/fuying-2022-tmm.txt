@@ -3,7 +3,7 @@
   author={Fu, Ying and Wang, Zichun and Zhang, Tao and Zhang, Jun},
   journal={IEEE Transactions on Multimedia},
   volume={25},
-  pages={8119--8131},
+  pages={8119-8131},
   year={2022},
   publisher={IEEE}
 }

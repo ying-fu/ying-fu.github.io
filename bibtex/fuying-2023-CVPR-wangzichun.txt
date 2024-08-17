@@ -2,6 +2,6 @@
   title={LG-BPN: Local and Global Blind-Patch Network for Self-Supervised Real-World Denoising},
   author={Wang, Zichun and Fu, Ying and Liu, Ji and Zhang, Yulun},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={18156--18165},
+  pages={18156-18165},
   year={2023}
 }

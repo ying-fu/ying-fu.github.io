@@ -2,6 +2,6 @@
   title={MPI-Flow: Learning Realistic Optical Flow with Multiplane Images},
   author={Liang, Yingping and Liu, Jiaming and Zhang, Debing and Fu, Ying},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={13857--13868},
+  pages={13857-13868},
   year={2023}
 }

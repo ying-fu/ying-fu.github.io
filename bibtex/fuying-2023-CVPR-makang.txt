@@ -2,6 +2,6 @@
   title={Dynamic aggregated network for gait recognition},
   author={Ma, Kang and Fu, Ying and Zheng, Dezhi and Cao, Chunshui and Hu, Xuecai and Huang, Yongzhen},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={22076--22085},
+  pages={22076-22085},
   year={2023}
 }

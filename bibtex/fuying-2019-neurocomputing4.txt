@@ -3,7 +3,7 @@
   author={Wei, Kaixuan and Fu, Ying},
   journal={Neurocomputing},
   volume={331},
-  pages={412--423},
+  pages={412-423},
   year={2019},
   publisher={Elsevier}
 }

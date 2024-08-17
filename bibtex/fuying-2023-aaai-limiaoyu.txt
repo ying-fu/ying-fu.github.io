@@ -4,6 +4,6 @@
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   volume={37},
   number={1},
-  pages={1368--1376},
+  pages={1368-1376},
   year={2023}
 }

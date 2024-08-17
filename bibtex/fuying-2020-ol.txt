@@ -4,6 +4,6 @@ author={Fu, Ying and Zou, Yunhao and Bian, Liheng and Guo, Yuxiang and Huang, Hu
 journal={Optics Letters},
 volume={45},
 number={5},
-pages={1120--1123},
+pages={1120-1123},
 year={2020}}
     

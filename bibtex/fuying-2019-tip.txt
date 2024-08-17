@@ -4,6 +4,6 @@
   journal={IEEE Transactions on Image Processing},
   volume={28},
   number={5},
-  pages={2257--2270},
+  pages={2257-2270},
   year={2019}
 }

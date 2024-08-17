@@ -4,7 +4,7 @@
   journal={IEEE Transactions on Computational Imaging},
   volume={4},
   number={3},
-  pages={382--394},
+  pages={382-394},
   year={2018},
   publisher={IEEE}
 }

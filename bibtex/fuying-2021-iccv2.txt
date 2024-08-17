@@ -2,6 +2,6 @@
   title={Hyperspectral image denoising with realistic data},
   author={Zhang, Tao and Fu, Ying and Li, Cheng},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={2248--2257},
+  pages={2248-2257},
   year={2021}
 }

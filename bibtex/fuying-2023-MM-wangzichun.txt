@@ -2,6 +2,6 @@
   title={Recurrent self-supervised video denoising with denser receptive field},
   author={Wang, Zichun and Zhang, Yulun and Zhang, Debing and Fu, Ying},
   booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
-  pages={7363--7372},
+  pages={7363-7372},
   year={2023}
 }
