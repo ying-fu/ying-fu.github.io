@@ -1,7 +1,10 @@
 @article{liu2024transformer,
-  title={Transformer based Pluralistic Image Completion with Reduced Information Loss},
   author={Liu, Qiankun and Jiang, Yuqi and Tan, Zhentao and Chen, Dongdong and Fu, Ying and Chu, Qi and Hua, Gang and Yu, Nenghai},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Transformer Based Pluralistic Image Completion With Reduced Information Loss}, 
   year={2024},
-  publisher={IEEE}
+  volume={46},
+  number={10},
+  pages={6652-6668},
+  doi={10.1109/TPAMI.2024.3384406}
 }
