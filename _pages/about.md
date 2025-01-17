@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-<p> Email: fuying@bit.edu.cn </p>
-<p> Address: No.5, Zhongguancun South Street, Haidian District, Beijing 100081, China </p>
+"Email: fuying@bit.edu.cn"
+"Address: No.5, Zhongguancun South Street, Haidian District, Beijing 100081, China"
 
 profile:
   align: right
