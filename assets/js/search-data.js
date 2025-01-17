@@ -368,16 +368,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-one-paper-is-accepted-by-transactions-on-geoscience-and-remote-sensing-tgrs",
+          title: 'One paper is accepted by Transactions on Geoscience and Remote Sensing (TGRS).',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-one-paper-is-accepted-by-ieee-transactions-on-neural-networks-and-learning-systems-tnnls",
+          title: 'One paper is accepted by IEEE Transactions on Neural Networks and Learning Systems...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-one-paper-is-accepted-by-international-conference-on-learning-representations-iclr-2024",
+          title: 'One paper is accepted by International Conference on Learning Representations (ICLR) 2024.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
