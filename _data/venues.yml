@@ -6,7 +6,7 @@
   url: https://journals.aps.org/
 
 "Vision":
-  color: "#990000"
+  color: "#A82E26"
 
 "TPAMI":
   url: http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
@@ -16,5 +16,17 @@
   url: http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
   color: "#00369f"
 
+"TGRS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36
+  color: "#00369f"
+
+"IJCV":
+  url: https://link.springer.com/journal/11263
+  color: "#00369f"
+
 "arXiv":
   url: https://arxiv.org/list/cs.CV/recent
+
+"ICLR":
+  url: https://en.wikipedia.org/wiki/International_Conference_on_Learning_Representations
+  color: "#A82E26"
