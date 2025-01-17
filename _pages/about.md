@@ -10,10 +10,9 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>fuying@bit.edu.cn</p>
-    <p>No.5, Zhongguancun South Street</p>
-    <p>Haidian District, Beijing 100081, China</p>
+    <p>No.5, Zhongguancun South Street, Haidian District, Beijing 100081, China</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
