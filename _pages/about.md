@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-Email: fuying@bit.edu.cn
-Address: No.5, Zhongguancun South Street, Haidian District, Beijing 100081, China
+<p> Email: fuying@bit.edu.cn </p>
+<p> Address: No.5, Zhongguancun South Street, Haidian District, Beijing 100081, China </p>
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info:
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
