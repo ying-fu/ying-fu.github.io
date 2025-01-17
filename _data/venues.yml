@@ -6,4 +6,15 @@
   url: https://journals.aps.org/
 
 "Vision":
-  color: "#009f36"
+  color: "#990000"
+
+"TPAMI":
+  url: http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
+  color: "#00369f"
+
+"TIP":
+  url: http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
+  color: "#00369f"
+
+"arXiv":
+  url: https://arxiv.org/list/cs.CV/recent
