@@ -12,7 +12,7 @@ name: "Lighthouse-Badger-Easy"
 # DEFINE YOUR INPUTS AND TRIGGERS IN THE FOLLOWING
 ########################################################################
 
-# INPUTS as environmental variables (env) for not manually triggered workflows 
+# INPUTS as environmental variables (env) for not manually triggered workflows
 env:
   URLS: https://ying-fu.github.io
   TOKEN_NAME: LIGHTHOUSE_BADGER_TOKEN
@@ -24,7 +24,7 @@ on:
   # page_build:
   # schedule: # Check your schedule here => https://crontab.guru/
   #   - cron: '55 23 * * 0' # e.g. every Sunday at 23:55
-  # 
+  #
   # THAT'S IT; YOU'RE DONE;
   workflow_dispatch:
     inputs:
