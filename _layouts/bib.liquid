@@ -18,7 +18,7 @@
             {% if site.data.venues[entry.abbr].url %}
               <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
             {% else %}
-              <div>{{- entry.abbr -}}</div>
+              <div style="color: white;">{{- entry.abbr -}}</div>
             {% endif %}
           </abbr>
         {% else %}
@@ -82,10 +82,10 @@
           {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
         {% endif %}
         {%- if author_is_self -%}
-          <em>
+          <em><b>
             {{- author.first }}
             {{ author_last_html -}}
-          </em>
+          </b></em>
         {%- else -%}
           {%- if coauthor_url -%}
             <a href="{{ coauthor_url }}">
@@ -174,7 +174,7 @@
       {% include hook/bib.liquid %}
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
-    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entryyear }}{% endcapture %}
     <div class="periodical">
       {{ periodical | strip }}
     </div>
@@ -213,6 +213,13 @@
           <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% else %}
           <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+        {% endif %}
+      {% endif %}
+      {% if entry.download %}
+        {% if entry.pdf contains '://' %}
+          <a href="{{ entry.download }}" class="btn btn-sm z-depth-0" role="button">DOWNLOAD</a>
+        {% else %}
+          <a href="{{ entry.download | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">DOWNLOAD</a>
         {% endif %}
       {% endif %}
       {% if entry.supp %}

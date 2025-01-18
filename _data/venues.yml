@@ -24,8 +24,75 @@
   url: https://link.springer.com/journal/11263
   color: "#00369f"
 
+"CJE":
+  url: https://cje.ejournal.org.cn/
+  color: "#00369f"
+
+"TCSVT":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76
+  color: "#00369f"
+
+"TOG":
+  url: https://dl.acm.org/journal/tog
+  color: "#00369f"
+
+"PR":
+  url: https://www.sciencedirect.com/journal/pattern-recognition
+  color: "#00369f"
+
+"OL":
+  url: https://www.sciencedirect.com/journal/optics-and-laser-technology
+  color: "#00369f"
+
+"Neurocomputing":
+  url: https://www.sciencedirect.com/journal/neurocomputing
+  color: "#00369f"
+
+"JIG":
+  url: https://www.joig.net/
+  color: "#00369f"
+
+"ISPRS":
+  url: https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing
+  color: "#00369f"
+
+"TMM":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
+  color: "#00369f"
+
+"SCIS":
+  url: https://link.springer.com/journal/11432
+  color: "#00369f"
+
+"KBS":
+  url: https://www.sciencedirect.com/journal/knowledge-based-systems
+  color: "#00369f"
+
+"JSTSP":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690
+  color: "#00369f"
+
+"JSTAR":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443
+  color: "#00369f"
+
+"JMLR":
+  url: https://www.jmlr.org/
+  color: "#00369f"
+
+"AIS":
+  url: https://advanced.onlinelibrary.wiley.com/journal/26404567
+  color: "#00369f"
+
+
+
+
+
+
+
 "arXiv":
   url: https://arxiv.org/list/cs.CV/recent
+
 
 "ICLR":
   url: https://en.wikipedia.org/wiki/International_Conference_on_Learning_Representations
@@ -33,4 +100,22 @@
 
 "CVPR":
   url: https://en.wikipedia.org/wiki/Conference_on_Computer_Vision_and_Pattern_Recognition
+  color: "#A82E26"
+
+"CVPRW":
+  color: "#A82E26"
+
+"ICCV":
+  url: https://en.wikipedia.org/wiki/International_Conference_on_Computer_Vision
+  color: "#A82E26"
+
+"ACM MM":
+  url: https://en.wikipedia.org/wiki/ACM_Multimedia
+  color: "#A82E26"
+
+"AAAI":
+  url: https://en.wikipedia.org/wiki/AAAI_Conference_on_Artificial_Intelligence
+  color: "#A82E26"
+
+"CICAI":
   color: "#A82E26"
