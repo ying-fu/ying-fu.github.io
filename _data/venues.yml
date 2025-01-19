@@ -44,6 +44,10 @@
   url: https://www.sciencedirect.com/journal/optics-and-laser-technology
   color: "#00369f"
 
+"OLEN":
+  url: https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering
+  color: "#00369f"
+
 "Neurocomputing":
   url: https://www.sciencedirect.com/journal/neurocomputing
   color: "#00369f"
@@ -85,6 +89,18 @@
   color: "#00369f"
 
 "RS":
+  color: "#00369f"
+
+"TNNLS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
+  color: "#00369f"
+
+"TITS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979
+  color: "#00369f"
+
+"OE":
+  url: https://opg.optica.org/oe/home.cfm?utm_source=google&utm_medium=cpc&utm_keyword=&utm_device=c&matchtype=&location=1003571&utm_campaign=&gad_source=1&gclid=Cj0KCQiA4rK8BhD7ARIsAFe5LXKMcKPD4O7pE3DJFDtBMCVXHlJSTNMVqXoNcISTcZqzOg4H1Au-xP0aAp_AEALw_wcB
   color: "#00369f"
 
 "AIS":
@@ -129,6 +145,14 @@
 
 "IJCAI":
   url: https://en.wikipedia.org/wiki/International_Joint_Conference_on_Artificial_Intelligence
+  color: "#A82E26"
+
+"ICML":
+  url: https://en.wikipedia.org/wiki/International_Conference_on_Machine_Learning
+  color: "#A82E26"
+
+"NeurIPS":
+  url: https://en.wikipedia.org/wiki/Conference_on_Neural_Information_Processing_Systems
   color: "#A82E26"
 
 "BMVC":
