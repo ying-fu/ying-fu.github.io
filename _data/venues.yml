@@ -80,6 +80,13 @@
   url: https://www.jmlr.org/
   color: "#00369f"
 
+"PRL":
+  url: https://www.sciencedirect.com/journal/pattern-recognition-letters
+  color: "#00369f"
+
+"RS":
+  color: "#00369f"
+
 "AIS":
   url: https://advanced.onlinelibrary.wiley.com/journal/26404567
   color: "#00369f"
@@ -118,4 +125,14 @@
   color: "#A82E26"
 
 "CICAI":
+  color: "#A82E26"
+
+"IJCAI":
+  url: https://en.wikipedia.org/wiki/International_Joint_Conference_on_Artificial_Intelligence
+  color: "#A82E26"
+
+"BMVC":
+  color: "#A82E26"
+
+"PRCV":
   color: "#A82E26"
