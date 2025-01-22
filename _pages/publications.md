@@ -15,6 +15,7 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+<!-- {% bibliography -T {{reference}} %} -->
+{% bibliography -T bib_simple %}
 
 </div>
