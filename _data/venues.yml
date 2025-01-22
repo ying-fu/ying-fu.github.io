@@ -107,8 +107,13 @@
   url: https://advanced.onlinelibrary.wiley.com/journal/26404567
   color: "#00369f"
 
+"TCI":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852
+  color: "#00369f"
 
-
+"IETIP":
+  url: https://digital-library.theiet.org/journal/iet-ipr
+  color: "#00369f"
 
 
 
@@ -130,6 +135,10 @@
 
 "ICCV":
   url: https://en.wikipedia.org/wiki/International_Conference_on_Computer_Vision
+  color: "#A82E26"
+
+"ECCV":
+  url: https://en.wikipedia.org/wiki/European_Conference_on_Computer_Vision
   color: "#A82E26"
 
 "ACM MM":
@@ -159,4 +168,13 @@
   color: "#A82E26"
 
 "PRCV":
+  color: "#A82E26"
+
+"ICIP":
+  color: "#A82E26"
+
+"3DIMPVT":
+  color: "#A82E26"
+
+"PCM":
   color: "#A82E26"
